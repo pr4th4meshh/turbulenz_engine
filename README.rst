@@ -339,7 +339,7 @@ High-level API
 - 4 weight GPU skinning.
 - UV animation.
 - Wireframe mode.
-- Callbacks for additional passes: decals, transparency, debug
+- Callbacks for additional passes: decals, transparency, debug.
 
 **Default Renderer**
 
